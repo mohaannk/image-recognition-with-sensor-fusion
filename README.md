@@ -2,7 +2,8 @@
 
 This project implements a deep learning model to detect potholes from road images. It uses a ResNet-18 backbone enhanced with Channel and Spatial Attention mechanisms (CBAM). The system is presented through a Gradio web interface that allows for model training, evaluation, and inference with simulated multi-sensor fusion.
 
-![Gradio App Screenshot](https://user-images.githubusercontent.com/your-username/your-repo/assets/screenshot.png) <!-- Replace with a link to a screenshot of your app -->
+https://huggingface.co/spaces/mohaann/Image-recognition-sensor-fusion 
+
 
 ## Features
 
